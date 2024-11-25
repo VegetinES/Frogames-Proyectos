@@ -722,4 +722,13 @@ sysinfo.txt
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+# OTRAS EXTENSIONES
+*.pdf
+*.odt
+*.docx
+*.txt
+*.png
+*.jpg
+*.jpeg
+
 # End of https://www.toptal.com/developers/gitignore/api/unity,csharp,visualstudio,rider
